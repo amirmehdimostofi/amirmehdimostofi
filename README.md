@@ -10,11 +10,11 @@ I'm looking for junior **data analyst** or **business analyst** roles in New Zea
 
 ## Featured projects
 
-- **[Telecom churn prediction](https://github.com/mostofiamirmehdi-debug/telecom-churn-prediction)** — Classification models (logistic regression, kNN, random forest, gradient boosting, SVM) to identify customers at risk of leaving, evaluated with precision, recall, F1, and F2.
-- **[E-commerce customer clustering](https://github.com/mostofiamirmehdi-debug/Clustering)** — RFM analysis and clustering to segment customers of an e-commerce business.
-- **[Sales time-series forecasting](https://github.com/mostofiamirmehdi-debug/Time_series_analysis_sales_prediction)** — Fixed-window and expanding-window exponential smoothing of US monthly vehicle sales.
-- **[U Food marketing analysis](https://github.com/mostofiamirmehdi-debug/u-food-marketing-analysis)** — Exploratory analysis of customer spending and campaign response for a food brand.
-- **[Airbnb dashboard, Western Australia](https://github.com/mostofiamirmehdi-debug/Tableau_Dashboard_Project)** — Tableau storytelling on how guests and hosts can compare price, location, reviews, and host experience.
+- **[Telecom churn prediction](https://github.com/amirmehdimostofi/telecom-churn-prediction)** — Classification models (logistic regression, kNN, random forest, gradient boosting, SVM) to identify customers at risk of leaving, evaluated with precision, recall, F1, and F2.
+- **[E-commerce customer clustering](https://github.com/amirmehdimostofi/Clustering)** — RFM analysis and clustering to segment customers of an e-commerce business.
+- **[Sales time-series forecasting](https://github.com/amirmehdimostofi/Time_series_analysis_sales_prediction)** — Fixed-window and expanding-window exponential smoothing of US monthly vehicle sales.
+- **[U Food marketing analysis](https://github.com/amirmehdimostofi/u-food-marketing-analysis)** — Exploratory analysis of customer spending and campaign response for a food brand.
+- **[Airbnb dashboard, Western Australia](https://github.com/amirmehdimostofi/Tableau_Dashboard_Project)** — Tableau storytelling on how guests and hosts can compare price, location, reviews, and host experience.
 
 More work is on my [portfolio site](https://amirmehdimostofi.online).
 
